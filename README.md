@@ -1,5 +1,5 @@
 # ThreeJS-Geometries
-Experimenting with basic shapes in Three.JS (JavaScript).<br>
+Experimenting with basic shapes in Three.JS (JavaScript).<br><br>
 Official Three documentation:<br>
 https://threejs.org<br><br>
 
